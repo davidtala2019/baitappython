@@ -1,0 +1,11 @@
+m = int (input ("Nhap so thu nhat: "))
+n = int (input("Nhap so thu hai: "))
+print ("so m: {}, n: {}".format(m,n))
+thuong = m // n
+print ("phan nguyen cua m/n la:", thuong)
+hoten = input ("Nhap ho ten vao: ")
+tuoi = int (input ("Nhap tuoi vao: "))
+ngaysinh = input ("Nhap ngay sinh vao: ")
+print ("ngay sinh", ngaysinh)
+print ("tuoi:", tuoi)
+print ("ho ten:", hoten)
